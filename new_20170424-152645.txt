@@ -1,2 +1,0 @@
-This file is create fow git add file test
-[2017-04-24-15:27:00] Edit by 'iter_edit_files'
